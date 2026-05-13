@@ -116,7 +116,6 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
----
 
 ## 7️⃣ Start Server
 
