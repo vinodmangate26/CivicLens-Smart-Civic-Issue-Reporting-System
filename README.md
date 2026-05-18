@@ -9,7 +9,6 @@ The system helps authorities track issues, manage reports, and improve communica
 
 This project is built using Django and provides a clean and user-friendly interface for issue management.
 
-
 # ✨ Features
 
 - 📝 User Registration and Login
