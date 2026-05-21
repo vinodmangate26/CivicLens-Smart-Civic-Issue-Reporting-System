@@ -1,6 +1,6 @@
 # CivicLens - Smart Civic Issue Reporting System
 
-## 📌 Project Description
+## 📌 Project Description.      
 
 CivicLens is a smart civic issue reporting system developed to help citizens report public issues easily and efficiently.  
 The platform allows users to submit complaints related to roads, garbage, water leakage, street lights, and other civic problems.
